@@ -1,0 +1,28 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.details {
+
+}
+
+.actions a {
+  text-decoration: none;
+  color: grey;
+  text-decoration: underline;
+}
+
+
+.container {
+  display: flex;
+  flex-flow: column;
+
+}
+
+.row {
+  box-shadow: 5px 5px black;
+  border: thin red solid;
+  margin: 20px;
+  padding: 20px;
+
+}
